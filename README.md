@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Rahat
 #### Junior Web Developer
- I am a dedicated junior web developer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. I am a dedicated junior web developer with a focus on the MERN (MongoDB, Express.js, React.js, Node.js) stack. Now I am working with  frontend development also I am learning backend development for become a full-stack developer. 
+ I am a dedicated junior web developer with focus on the MERN stack (MongoDB, Express.js, React.js, Node.js). Now I am working with frontend development also I am learning backend development for become a full-stack developer. 
 
-Skills: REACT / JS / HTML / CSS/Tailwind CSS
+Skills: REACT / JS / HTML / CSS/MongoDB
 
 - 🔭 I’m currently working on Muhammmadia Jamia Shareef,Madrasah. 
 - 🌱 I’m currently learning backend development. 
