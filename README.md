@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Rahat
 #### Junior Forntend Developer
- I am a dedicated junior web developer specializing in frontend development with a strong focus on modern technologies like React.js, Next.js, Material ui. I’m passionate about creating responsive, user-friendly web interfaces and continually improving my skills in building clean, maintainable, and performant frontends.
+ I am a dedicated junior frontend developer specializing in frontend development with a strong focus on modern technologies like React.js, Next.js, Material ui. I’m passionate about creating responsive, user-friendly web interfaces and continually improving my skills in building clean, maintainable, and performant frontends.
 
 - 🔭 I’m currently working as a Frontend Developer.
 - 🌱 I’m focused on deepening my knowledge in frontend frameworks and best practices
